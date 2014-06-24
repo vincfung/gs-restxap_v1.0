@@ -1,0 +1,82 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   rest-common/.classpath
+#	new file:   rest-common/.project
+#	new file:   rest-common/.settings/org.eclipse.jdt.core.prefs
+#	new file:   rest-common/.settings/org.eclipse.m2e.core.prefs
+#	new file:   rest-common/.settings/org.eclipse.wst.common.component
+#	new file:   rest-common/.settings/org.eclipse.wst.common.project.facet.core.xml
+#	new file:   rest-common/classes/com/operation/rest/common/Message.class
+#	new file:   rest-common/pom.xml
+#	new file:   rest-common/src/com/operation/rest/common/Message.java
+#	new file:   rest-common/target/classes/META-INF/MANIFEST.MF
+#	new file:   rest-common/target/classes/META-INF/maven/com.operation.rest.commom/rest.common/pom.properties
+#	new file:   rest-common/target/classes/META-INF/maven/com.operation.rest.commom/rest.common/pom.xml
+#	new file:   rest-common/target/classes/com/operation/rest/common/Message.class
+#	new file:   rest-common/target/maven-archiver/pom.properties
+#	new file:   rest-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   rest-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#	new file:   rest-common/target/rest.common-1.0.jar
+#	new file:   rest2xap/.classpath
+#	new file:   rest2xap/.project
+#	new file:   rest2xap/.settings/org.eclipse.jdt.core.prefs
+#	new file:   rest2xap/.settings/org.eclipse.m2e.core.prefs
+#	new file:   rest2xap/.settings/org.eclipse.wst.common.component
+#	new file:   rest2xap/.settings/org.eclipse.wst.common.project.facet.core.xml
+#	new file:   rest2xap/.settings/org.eclipse.wst.validation.prefs
+#	new file:   rest2xap/pom.xml
+#	new file:   rest2xap/src/main/java/com/operation/common/controller/Feeder.java
+#	new file:   rest2xap/src/main/java/com/operation/common/controller/JSONController.java
+#	new file:   rest2xap/src/main/java/com/operation/common/model/Operation.java
+#	new file:   rest2xap/src/main/webapp/META-INF/MANIFEST.MF
+#	new file:   rest2xap/src/main/webapp/META-INF/spring/pu.properties
+#	new file:   rest2xap/src/main/webapp/META-INF/spring/sla.xml
+#	new file:   rest2xap/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml
+#	new file:   rest2xap/src/main/webapp/WEB-INF/web.xml
+#	new file:   rest2xap/target/classes/com/operation/common/controller/Feeder.class
+#	new file:   rest2xap/target/classes/com/operation/common/controller/JSONController.class
+#	new file:   rest2xap/target/classes/com/operation/common/model/Operation.class
+#	new file:   rest2xap/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+#	new file:   rest2xap/target/m2e-wtp/web-resources/META-INF/maven/com.operation.common/rest2xap/pom.properties
+#	new file:   rest2xap/target/m2e-wtp/web-resources/META-INF/maven/com.operation.common/rest2xap/pom.xml
+#	new file:   rest2xap/target/maven-archiver/pom.properties
+#	new file:   rest2xap/target/rest2xap/META-INF/MANIFEST.MF
+#	new file:   rest2xap/target/rest2xap/META-INF/spring/pu.properties
+#	new file:   rest2xap/target/rest2xap/META-INF/spring/sla.xml
+#	new file:   rest2xap/target/rest2xap/WEB-INF/classes/com/operation/common/controller/Feeder.class
+#	new file:   rest2xap/target/rest2xap/WEB-INF/classes/com/operation/common/controller/JSONController.class
+#	new file:   rest2xap/target/rest2xap/WEB-INF/classes/com/operation/common/model/Operation.class
+#	new file:   rest2xap/target/rest2xap/WEB-INF/mvc-dispatcher-servlet.xml
+#	new file:   rest2xap/target/rest2xap/WEB-INF/web.xml
+#	new file:   xap-processor/.classpath
+#	new file:   xap-processor/.eclipse/Xap Processor.launch
+#	new file:   xap-processor/.project
+#	new file:   xap-processor/.settings/org.eclipse.jdt.core.prefs
+#	new file:   xap-processor/.settings/org.eclipse.m2e.core.prefs
+#	new file:   xap-processor/.settings/org.springframework.ide.eclipse.core.prefs
+#	new file:   xap-processor/.springBeans
+#	new file:   xap-processor/pom.xml
+#	new file:   xap-processor/pu/xap-processor.jar
+#	new file:   xap-processor/pu/xap-processor/META-INF/spring/pu.xml
+#	new file:   xap-processor/pu/xap-processor/com/operation/xap/processor/Processor.class
+#	new file:   xap-processor/src/META-INF/spring/pu.xml
+#	new file:   xap-processor/src/com/operation/xap/processor/Processor.java
+#	new file:   xap-processor/target/classes/META-INF/MANIFEST.MF
+#	new file:   xap-processor/target/classes/META-INF/maven/xap-processor/xap-processor/pom.properties
+#	new file:   xap-processor/target/classes/META-INF/maven/xap-processor/xap-processor/pom.xml
+#	new file:   xap-processor/target/classes/META-INF/spring/pu.xml
+#	new file:   xap-processor/target/classes/com/operation/xap/processor/Processor.class
+#	new file:   xap-processor/target/maven-archiver/pom.properties
+#	new file:   xap-processor/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   xap-processor/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#
+
